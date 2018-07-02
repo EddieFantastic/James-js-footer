@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "This Module allows dynamic footers to be generated in JS applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddieFantastic/James-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "James <maugrimthegreat@gmail.com> (www.github.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EddieFantastic/James-js-footer/issues"
+  },
+  "homepage": "https://github.com/EddieFantastic/James-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
